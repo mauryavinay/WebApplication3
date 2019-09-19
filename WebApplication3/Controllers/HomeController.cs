@@ -12,6 +12,7 @@ namespace WebApplication3.Controllers
     {
         public IActionResult Index()
         {
+            //comment by vinay
             return View();
         }
 
